@@ -1,0 +1,10 @@
+body {background: url(http://davepetersen.github.io/week3/images);
+background-size: cover;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+font-style: italic;
+}
+h1 {color: #5997FF;
+	font-size: 100px;
+
+}
