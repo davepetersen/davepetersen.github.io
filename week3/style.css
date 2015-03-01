@@ -1,5 +1,5 @@
-body {background: url(http://davepetersen.github.io/week3/images);
-background-size: cover;
+body {background: url("davepetersen.github.io/week3/images");
+	background-image: url(davepetersen.github.io/week3/images/vinyl.jpg);
 font-family: 'Roboto', sans-serif;
 font-weight: 400;
 font-style: italic;
