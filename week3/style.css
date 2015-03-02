@@ -1,5 +1,5 @@
 body {
-	background: url("http://davepetersen.github.io/week3/images/vinyl.png");
+	background: url("http://davepetersen.github.io/week3/images/vinyl.png") no-repeat center center fixed;
 	background-size: cover;
 	font-family: "Roboto", sans-serif;
 	color: #5997FF;
@@ -11,14 +11,14 @@ ul {
 	list-style-type: none;
 	position: absolute;
 	top: 0;
-	right: 0;
+	right: 0;*/
 	padding: 0 20px 0 0;
 }
 
 #about {
 	font-size: 15px;
 	height: 675px;
-	width: 600px;
+	max-width: 582px;
 }
 
 p {
@@ -41,7 +41,7 @@ p {
 	padding: 0 20px 0 0;
 	}
 
-#email {
+#contactus {
 	text-align: right;
 	padding: 0 20px 0 0;
 }
