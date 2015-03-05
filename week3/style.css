@@ -1,5 +1,5 @@
 body {
-	background: url("http://davepetersen.github.io/week3/images/vinyl.png") no-repeat center center fixed;
+	background: url("http://davepetersen.github.io/week4/images/vinyl.png") no-repeat center center fixed;
 	background-size: cover;
 	font-family: "Roboto", sans-serif;
 	color: #5997FF;
@@ -9,10 +9,10 @@ ul {
 	font-size: 30px;
 	display: block;
 	list-style-type: none;
-	position: absolute;
+	/*position: absolute;
 	top: 0;
-	right: 0;*/
-	padding: 0 20px 0 0;
+	right: 0;
+	padding: 0 20px 0 0;*/
 }
 
 #about {

@@ -1,4 +1,96 @@
 body {
+	background: url("http://davepetersen.github.io/week4/images/vinyl.png") no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Open Sans', Georgia, sans-serif;
+	color: #FFF;
+	font-size: 100px;
+	font-weight: 400;
+	margin-top: -20px;
+	margin-bottom: -38px;
+	/*background: #FFF;*/
+}
+
+h2 {
 
 }
 
+p {
+	font-family: 'Open Sans', Georgia, sans-serif;
+	/*background: #FFF;*/
+}
+
+.navigation {
+	font-family: 'Open Sans', Georgia, sans-serif;
+	font-size: 30px;
+	/*font-weight: 400;*/
+	float: right;
+	/*background: #FFF;*/
+}
+
+.navigation li{
+	list-style-type: none;
+	text-transform: uppercase;
+	text-align: right;
+}
+
+.navigation li a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+.navigation li a:hover{
+	color: #5977FF;
+}
+#welcome {
+	font-family: 'Open Sans', Georgia, sans-serif;
+}
+#container {
+	font-family: 'Open Sans', Georgia, sans-serif;
+	font-size: 24px;
+	padding-top: 50px;
+	max-height: 675px;
+	max-width: 582px;
+	color: #FFF;
+}
+
+#logo {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 0 20px 35px 0;
+}
+
+#slogan {
+	font-style: italic;
+	color: #FFF;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 0 20px 0 0;
+}
+
+/*#contactus {
+	position: absolute;
+	bottom: 0;
+	text-align: right;
+	padding: 0 20px 0 0;
+	margin: 120px auto 50px auto;
+	text-align: center;
+	}
+
+#contactus a{
+	text-align: right;
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	text-align: center;
+	font-size: 25px;
+	color: #5977FF;
+}
+
+#contactus a:hover {
+	text-decoration: underline;
+	color: white;
+}
