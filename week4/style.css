@@ -50,7 +50,7 @@ p {
 #container {
 	font-family: 'Open Sans', Georgia, sans-serif;
 	font-size: 24px;
-	padding-top: 50px;
+	/*padding-top: 50px;*/
 	max-height: 675px;
 	max-width: 582px;
 	color: #FFF;
