@@ -1,0 +1,29 @@
+body{/*font-size: 15px;*/
+	font-family: 'Playfair Display', serif;
+}
+
+nav{/*right: 0px;
+	margin: 1.5em 1em 0 0;
+	display: inline-block;
+	position: fixed;
+	padding: 0;*/
+}
+
+/*.navigation{display: inline-block;
+	margin: 0;
+	padding: .3em 1.2em;
+	font-size: 1.7em;
+	/*border: 1px solid;
+	text-transform: lowercase;
+	/*text-align: center;
+	background: black;
+	text-decoration: none;
+}
+
+.navigation li {list-style-type: none;
+
+}
+
+.navigation li a{text-decoration: none;
+
+}

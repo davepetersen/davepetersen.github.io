@@ -22,6 +22,10 @@ p {
 	/*background: #FFF;*/
 }
 
+.wrapper{
+	margin: auto;
+}
+
 .navigation {
 	font-family: 'Open Sans', Georgia, sans-serif;
 	font-size: 30px;
