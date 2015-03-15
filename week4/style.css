@@ -1,6 +1,5 @@
 body {
 	background: url("http://davepetersen.github.io/week4/images/vinyl.png") no-repeat center center fixed;
-	background-size: cover;
 }
 
 h1 {
@@ -29,7 +28,6 @@ p {
 .navigation {
 	font-family: 'Open Sans', Georgia, sans-serif;
 	font-size: 30px;
-	/*font-weight: 400;*/
 	float: right;
 	/*background: #FFF;*/
 }
