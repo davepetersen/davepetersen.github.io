@@ -1,0 +1,108 @@
+body{
+	font-family: 'Merriweather', serif;
+}
+
+header{
+/*	padding: 30px;*/
+}
+
+img{
+	/*width: 300px;*/
+}
+
+nav{
+	display: block;
+	float: right;
+	margin: 30px 30px 0 0;
+	font-size: 25px;
+}
+
+li{
+	display: inline;
+	padding: 20px;
+}
+
+li a{
+	text-decoration: none;
+	color: #8F9E95;
+	text-transform: lowercase;
+}
+
+li a:hover{
+	color: #555E59;
+}
+#Profile{
+	height: 500px;
+	position: relative;
+}
+
+#backgroundshape {
+	position: absolute;
+	left: -8px;
+	width: 649px;
+	height: 500px;
+	background: #BE5548;
+}
+
+#textcontainer{
+	position: relative;
+	margin-left: 80px;
+	width: 380px;
+	height: 300px;
+	color: #fff;
+	text-align: justify;
+}
+
+#profilepicture{
+	position: absolute;
+	right: -700px;
+	width: 700px;
+	height: 500px;
+	margin-left: 600px;
+	overflow: auto;
+}
+
+#Fashion{
+	height: 500px;
+	position: relative;
+}
+
+#backgroundshape2{
+	position: absolute;
+	left: -8px;
+	width: 649px;
+	height: 600px;
+	background: #65B7BF;
+}
+#textcontainer2{
+	position: relative;
+	margin-left: 80px;
+	width: 380px;
+	height: 300px;
+	color: #fff;
+	text-align: justify;
+}
+
+#image2{
+	position: absolute;
+	right: -700px;
+	width: 700px;
+	height: 600px;
+	margin-left: 600px;
+	overflow: auto;
+}
+
+footer{
+	position: relative;
+	margin-top: 120px;
+	margin-left: 600px;
+}
+
+footer a{
+	text-decoration: none;
+	color: #8F9E95
+}
+
+footer a:hover{
+	color: #555E59;
+}
