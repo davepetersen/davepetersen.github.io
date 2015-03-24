@@ -4,6 +4,8 @@ body{
 
 header{
 /*	padding: 30px;*/
+	/*background-color: red;*/
+	height: 25vh;
 }
 
 img{
@@ -12,8 +14,11 @@ img{
 
 nav{
 	display: block;
-	float: right;
-	margin: 30px 30px 0 0;
+	/*float: right;*/
+	margin-right: auto;
+	margin-left: auto;
+	width: auto;
+	text-align: center;
 	font-size: 25px;
 }
 
@@ -31,6 +36,14 @@ li a{
 li a:hover{
 	color: #555E59;
 }
+
+.logo{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 85%;
+}
+
 #Profile{
 	height: 500px;
 	position: relative;
