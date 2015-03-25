@@ -2,19 +2,12 @@ body{
 	font-family: 'Merriweather', serif;
 }
 
-header{
-/*	padding: 30px;*/
-	/*background-color: red;*/
-	height: 25vh;
-}
-
 img{
-	/*width: 300px;*/
+
 }
 
 nav{
 	display: block;
-	/*float: right;*/
 	margin-right: auto;
 	margin-left: auto;
 	width: auto;
@@ -37,11 +30,35 @@ li a:hover{
 	color: #555E59;
 }
 
-.logo{
+footer{
+	position: relative;
+	margin-top: 120px;
+	margin-left: 600px;
+}
+
+footer a{
+	text-decoration: none;
+	color: #8F9E95
+}
+
+footer a:hover{
+	color: #555E59;
+}
+
+.clearfix:after { 
+visibility: hidden; 
+display: block; 
+font-size: 0; 
+content: " "; 
+clear: both; 
+height: 0; 
+}
+
+.navlogo{
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	height: 85%;
+	height: auto;
 }
 
 #Profile{
@@ -103,19 +120,4 @@ li a:hover{
 	height: 600px;
 	margin-left: 600px;
 	overflow: auto;
-}
-
-footer{
-	position: relative;
-	margin-top: 120px;
-	margin-left: 600px;
-}
-
-footer a{
-	text-decoration: none;
-	color: #8F9E95
-}
-
-footer a:hover{
-	color: #555E59;
 }
