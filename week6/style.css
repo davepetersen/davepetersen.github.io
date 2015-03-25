@@ -164,3 +164,88 @@ height: 0;
 #fashionpicture img{
 
 }
+
+#Fashion2{
+	height: 290px;
+	position: relative;
+}
+
+#textcontainer3{
+	position: absolute;
+	z-index: 100;
+	width: 85.7%;
+	border-top: 290px solid #EFD0BC;
+	border-right: 100px solid transparent;
+}
+#text3{
+	width: 55%;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	z-index: 100;
+	color: #fff;
+	/*position: relative;
+	margin-left: 80px;
+	width: 380px;
+	height: 300px;
+	color: #fff;
+	text-align: justify;*/
+}
+
+#pinkcoat{
+	width: 14.34%;
+	position: absolute;
+	right: 0;
+	/*position: absolute;
+	right: -700px;
+	width: 700px;
+	height: 600px;
+	margin-left: 600px;
+	overflow: auto;*/
+}
+
+#pinkcoat img{
+
+}
+#Fashion3{
+	height: 289px;
+	position: relative;
+}
+
+#textcontainer4{
+	position: absolute;
+	z-index: 100;
+	width: 61.7%;
+	border-top: 289px solid #D56166;
+	border-right: 100px solid transparent;
+}
+#text4{
+	width: 45%;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	z-index: 100;
+	color: #fff;
+	/*position: relative;
+	margin-left: 80px;
+	width: 380px;
+	height: 300px;
+	color: #fff;
+	text-align: justify;*/
+}
+
+#leatherjacket{
+	width: 38.5%;
+	position: absolute;
+	right: 0;
+	/*position: absolute;
+	right: -700px;
+	width: 700px;
+	height: 600px;
+	margin-left: 600px;
+	overflow: auto;*/
+}
+
+#leatherjacket img{
+
+}
