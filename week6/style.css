@@ -122,7 +122,7 @@ height: 0;
 #textcontainer2{
 	position: absolute;
 	z-index: 100;
-	width: 52%;
+	width: 40%;
 	border-top: 289px solid #65B7BF;
 	border-right: 100px solid transparent;
 }
@@ -142,7 +142,7 @@ height: 0;
 }
 
 #fashionpicture{
-	width: 52.60%;
+	width: 60%;
 	position: absolute;
 	right: 0;
 	/*position: absolute;
