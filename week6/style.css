@@ -66,7 +66,7 @@ height: 0;
 }
 
 #Profile{
-	height: 289px;
+	height: 288px;
 	position: relative;
 }
 
@@ -111,6 +111,7 @@ height: 0;
 }
 
 #profilepicture img{
+
 }
 
 #Fashion{
@@ -118,27 +119,40 @@ height: 0;
 	position: relative;
 }
 
-#backgroundshape2{
-	position: absolute;
-	left: -8px;
-	width: 649px;
-	height: 600px;
-	background: #65B7BF;
-}
 #textcontainer2{
-	position: relative;
+	position: absolute;
+	z-index: 100;
+	width: 52%;
+	border-top: 289px solid #65B7BF;
+	border-right: 100px solid transparent;
+}
+#text2{
+	width: 40%;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	z-index: 100;
+	color: #fff;
+	/*position: relative;
 	margin-left: 80px;
 	width: 380px;
 	height: 300px;
 	color: #fff;
-	text-align: justify;
+	text-align: justify;*/
 }
 
-#image2{
+#fashionpicture{
+	width: 52.60%;
 	position: absolute;
+	right: 0;
+	/*position: absolute;
 	right: -700px;
 	width: 700px;
 	height: 600px;
 	margin-left: 600px;
-	overflow: auto;
+	overflow: auto;*/
+}
+
+#fashionpicture img{
+
 }
