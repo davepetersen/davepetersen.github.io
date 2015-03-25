@@ -13,6 +13,7 @@ nav{
 	width: auto;
 	text-align: center;
 	font-size: 25px;
+	padding: 10px;
 }
 
 li{
@@ -52,6 +53,9 @@ font-size: 0;
 content: " "; 
 clear: both; 
 height: 0; 
+}
+
+#navbar{
 }
 
 .navlogo{
